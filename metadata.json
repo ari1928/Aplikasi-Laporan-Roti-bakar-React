@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Roti Bakar",
+  "description": "Aplikasi Laporan Stok, Keuangan, dan Penjualan Roti Bakar dengan Visualisasi, Dark Mode, Login Gmail, dan Integrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
